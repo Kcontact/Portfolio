@@ -1,0 +1,121 @@
+    
+
+    
+     .about-content p{
+    
+        font-size: 38px;
+    
+    }
+        
+    
+    
+    
+    .about-info1{
+
+
+
+        width: 80%;
+        margin: 50px auto 50px auto;
+    
+        
+    }
+
+
+
+    .about-info1 h1{
+
+        margin-top: 120px;
+text-align: center;
+
+
+    }
+    
+
+    .about-info{
+        width: 50%;
+        margin: 50px auto 100px auto;
+    
+        
+    }
+    
+
+
+    .text2{
+
+        max-width: 125ch;
+color: rgb(138, 146, 250);
+    }
+
+
+    .about-img-1{
+        width: 190px;
+        float: left;
+        margin-right: 30px;
+        box-shadow: 0px 2px 30px 3px rgba(0, 0, 0, 0.75);
+    }
+    
+    .about-img-2{
+        width: 190px;
+        float: right;
+    
+        box-shadow: 0px 2px 40px 3px rgba(0, 0, 0, 0.75);
+    }
+    
+    .about .about-info h3 {
+
+
+        font-size: 30px;
+        font-weight: 600;
+        color: #10caab;
+        margin-bottom: 30px;
+    
+    
+    
+    }
+    
+    .about-info p {
+        color: #bba66b;
+         font-size: 20px;
+        max-width: 90ch;
+        margin-bottom: 180px;
+
+
+    }
+
+    .abouttext1{
+
+color: rgb(22, 175, 185);
+font-size: 30px;
+margin-bottom: 30px;
+    }
+    
+
+    .abouttext{
+
+color: rgb(5, 209, 5);
+font-size: 40px;
+margin-bottom: 30px;
+    }
+
+
+    .polution{
+
+margin-bottom: 25px;
+font-size: 50px;
+color: rgb(100, 0, 33);
+font-weight: 50;
+
+
+    }
+
+.polutionimage{
+
+    box-shadow: 0px 4px 40px 8px rgba(0, 0, 0, 0.75);
+
+margin-bottom: 30px;
+
+}
+
+
+
+@media all and (max-width: 1024px)
